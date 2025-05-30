@@ -1,3 +1,5 @@
+// Autor: Yomero
+
 #include <stdio.h>
 
 int main() {
