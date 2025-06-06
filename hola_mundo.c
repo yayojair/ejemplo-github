@@ -5,7 +5,7 @@
 int main() {
     printf("Hola, mundo!\n");
     printf("aqui estuvo jair jijiji xd -.-!");
-    printf("no me regreses.. xc")
+    printf("no me regreses.. xc..")
 }
 
 int factorial(int n) {
